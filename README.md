@@ -1,9 +1,7 @@
-- Hi, I'm Fasri.  
-- 🔭 Exploring: Software Dev, AI, and Clean Code  
-- 📚 Currently learning Java, OOP & Web Design  
-- 🤝 Open to: Collaborations, projects & cool ideas  
-- 📩 Reach me at: mfasri04.com  
-- ✨ Fun Fact: I can learn faster than your average compiler!
+- Hi, I’m Fasri.
+- Smooth energy, sharper mind.
+- 📩 Reach me at: mfasri04.com
+- ✨ Fun Fact: I disappear to evolve, not to escape.
 
 
 <!---
